@@ -11,19 +11,19 @@ I graduated from Chang'an University, the Department of Computer Science and Tec
 
 Educations
 ======
-2024.09 - present, Ph.D. candidate in School of Computer Science and Technology, Chang'an University , Xi'an.
-2023.09 - 2024.06, M.E. in School of Computer Science and Technology, Chang'an University , Xi'an.
-2019-09 - 2023.06, B.E. in School of Computer Science and Technology, Chang'an University , Xi'an.
+- 2024.09 - present, Ph.D. candidate in School of Computer Science and Technology, Chang'an University , Xi'an.
+- 2023.09 - 2024.06, M.E. in School of Computer Science and Technology, Chang'an University , Xi'an.
+- 2019-09 - 2023.06, B.E. in School of Computer Science and Technology, Chang'an University , Xi'an.
 
 Honors and Awards
 ======
-Received the National Scholarship once (ranked 1st in the major, 1/300)
-Received the National Encouragement Scholarship once
-Awarded the Academic Excellence Award twice (top 10% in the major for the academic year)
-Received the Campus Contribution Award three times (top 20% in the major for the academic year & outstanding student work)
-Awarded the Course Excellence Award six times (top 10% in the university-wide general courses)
-Received the China Merchants Highway Chang'an University Scholarship once
-Received the Gratitude to Modern Chinese Scientists Scholarship once
+-Received the National Scholarship once (ranked 1st in the major, 1/300)
+-Received the National Encouragement Scholarship once
+-Awarded the Academic Excellence Award twice (top 10% in the major for the academic year)
+-Received the Campus Contribution Award three times (top 20% in the major for the academic year & outstanding student work)
+-Awarded the Course Excellence Award six times (top 10% in the university-wide general courses)
+-Received the China Merchants Highway Chang'an University Scholarship once
+-Received the Gratitude to Modern Chinese Scientists Scholarship once
 
 Research Experience
 ------
