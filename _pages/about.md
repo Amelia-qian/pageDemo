@@ -17,17 +17,17 @@ Educations
 
 Honors and Awards
 ======
--Received the National Scholarship once (ranked 1st in the major, 1/300)
--Received the National Encouragement Scholarship once
--Awarded the Academic Excellence Award twice (top 10% in the major for the academic year)
--Received the Campus Contribution Award three times (top 20% in the major for the academic year & outstanding student work)
--Awarded the Course Excellence Award six times (top 10% in the university-wide general courses)
--Received the China Merchants Highway Chang'an University Scholarship once
--Received the Gratitude to Modern Chinese Scientists Scholarship once
+- Received the National Scholarship once (ranked 1st in the major, 1/300)
+- Received the National Encouragement Scholarship once
+- Awarded the Academic Excellence Award twice (top 10% in the major for the academic year)
+- Received the Campus Contribution Award three times (top 20% in the major for the academic year & outstanding student work)
+- Awarded the Course Excellence Award six times (top 10% in the university-wide general courses)
+- Received the China Merchants Highway Chang'an University Scholarship once
+- Received the Gratitude to Modern Chinese Scientists Scholarship once
 
 Research Experience
 ------
-Network Car-Hailing Simulation Platform (July 2021 - July 2023)
+1. Network Car-Hailing Simulation Platform (July 2021 - July 2023)
   The municipal transportation department aims to determine the optimal number of taxis and ride-hailing vehicles for the city, while ride-hailing companies are interested in exploring the impact of different ride-hailing driving logics on their fleets. To address these needs, we have developed a visual platform. This platform can output data such as the average waiting time for passengers, the average driving distance for vehicles, or any other desired metrics based on different vehicles, road networks, and passenger information.
 - Backend database development
 - Design of module models within the system: Passenger cancellation model, data cleaning model
